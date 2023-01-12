@@ -1,5 +1,5 @@
 {
-  "name": "gridbootstrap",
+  "name": "PreEntrega3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hellxdra/PreEntrega2-Rubin.git"
+    "url": "git+https://github.com/Hellxdra/PreEntrega3-Rubin.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Hellxdra/PreEntrega2-Rubin/issues"
+    "url": "https://github.com/Hellxdra/PreEntrega3-Rubin/issues"
   },
-  "homepage": "https://github.com/Hellxdra/PreEntrega2-Rubin#readme",
+  "homepage": "https://github.com/Hellxdra/PreEntrega3-Rubin#readme",
   "devDependencies": {
     "node-sass": "^8.0.0",
     "nodemon": "^2.0.20"
