@@ -198,6 +198,9 @@ body {
 .iconbox i {
   font-size: 25px; }
 
+.footer {
+  background-color: rgba(0, 0, 0, 0.2); }
+
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .carousel-caption {
     bottom: 200px; }
