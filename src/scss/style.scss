@@ -5,7 +5,9 @@
 @import"carousel";
 @import"button";
 
+
 $dark: #212529;
+$dark2: #17191b;
 $golden:#ffc107;
 
 body{
@@ -33,6 +35,20 @@ body{
 	background-color: rgba(0,0,0,0.2)
 	
 }
+
+
+.about-section {
+	padding: 50px;
+	text-align: center;
+	background-color: $dark2;
+	color: white;
+}
+  
+  
+.title-about {
+	color: grey;
+}
+  
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.carousel-caption {
